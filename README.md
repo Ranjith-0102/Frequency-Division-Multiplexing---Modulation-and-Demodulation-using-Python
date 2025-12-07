@@ -114,4 +114,7 @@ subplot(3,2,6); plot(t,dm6); title("Recovered Signal 6");
 <img width="1920" height="1200" alt="a11 2" src="https://github.com/user-attachments/assets/cf18ed98-d8c1-4ffc-8af6-3dd0d2034115" />
 <img width="1920" height="1200" alt="a11 3" src="https://github.com/user-attachments/assets/849eaa56-685c-4a4c-99d1-73bf0d6d26cc" />
 # __Result__:
+![WhatsApp Image 2025-12-07 at 9 18 33 PM](https://github.com/user-attachments/assets/a4bf9e3e-9314-4e4a-8084-cd0ebbe40e1e)
+
+
 The Frequency Division Multiplexing (FDM) technique was successfully implemented using SCILAB. Five different message signals were modulated onto five separate carrier frequencies, combined to form a single FDM composite signal, and then individually recovered using demodulation.
